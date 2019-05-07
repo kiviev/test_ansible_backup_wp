@@ -1,0 +1,68 @@
+@charset "utf-8";
+/* CSS Document */
+
+	html { background:#FFF;}
+	body { color:#000000;}
+	h1, h1 a, h1 a:hover { color: #2c3e50; }
+	h2, h2 a, h2 a:hover { color: #2c3e50; }
+	h3, h3 a, h3 a:hover { color: #2c3e50; }
+	h4, h4 a, h4 a:hover { color: #283645; }
+	h5, h5 a, h5 a:hover { color: #283645; }
+	h6, h6 a, h6 a:hover { color: #283645; }
+	
+	.tooltip:hover:after, 
+	.tooltip.hover:after { background: #444; color: #fff; }
+/* #Links
+================================================== */
+	
+	a, a:hover { color: #72448d; }
+	a.button {color: #fff; background:#72448d;}
+	a.button:hover { background: #72448d;}
+	
+/* #Layout
+================================================== */
+
+/* #Header */
+	#header { background:#e0f7ff; }
+	#header #Top_bar{ background: #e0f7ff; color:#4d4d4d;}
+	#header #Top_bar .addons_menu li a {color:#4d4d4d;}
+	#header #Top_bar .addons_menu li a:hover { text-decoration: none; }
+	
+	#menu-container { background: #89cddf;}
+/*	.main-menu > ul > li:hover a { color: #4d4d4d;	}
+	.main-menu > ul > li:hover a i { color: #4d4d4d !important;	}*/
+	#header #Top_bar .addons_menu li a:hover { color: #89cddf;}
+	.main-menu ul li ul li a:hover, .main-menu ul li ul li.hover > a { text-decoration: none;}
+
+	.main-menu ul li.hover ul li ul li a { background: #15aa8d !important; }
+	.main-menu ul li.hover ul li ul li a:hover { background: #129f83 !important; }
+
+	.main-menu ul.topic-menu > li.selected > a,
+	.main-menu ul.topic-menu li.menu-item-simple-parent ul li.selected a,
+	.main-menu ul.topic-menu > li.dt-current-menu > a,
+	.main-menu ul.topic-menu li ul li a:hover, .main-menu ul.topic-menu li ul li.hover > a { background-color: #72448d; }
+		
+	
+	.align_middle_wrapper { background: #f1eadb; }
+	#main-header-wrapper { background-color: #625f50; }
+	.highlight_box, #primary-menu > .main-menu:before { background-color: #72448d; }		
+	
+	
+	#footer .addons_menu li a:hover { color: #1abc9c; }
+
+	
+	.button a {  background-color: #72448d; }
+	.button a:hover, a.button:hover { background-color:#b640fb;; color:#FFF;}
+	
+	.image-overlay { background-color: rgba(126,132,70, 0.6);}
+	.image-overlay .white-box::before { background-color: rgba(126,132,70, 0.1); }
+	
+	
+	.dt-sc-info-box, .dt-sc-info-box span {	color: #FFF;}
+	.dt-sc-info-box a{ color: #FFF;}
+	.dt-sc-info-box a:hover{ color: #FFF; }
+	
+	.dt-sc-info-box2 { background: #f0ebd8;	border-color: #f0ebd8;	color:#4d4d4d;	}
+	.dt-sc-info-box3 { background: #f0ebd8; border-color: #f0ebd8;	color:#4d4d4d;	}
+
+

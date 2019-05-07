@@ -1,0 +1,52 @@
+
+textos estan ya para:
+
+pilates
+air pilates 
+Tee regrasiones
+kinesiologia
+quiromasaje
+
+no estan 
+yoga
+osteopatía
+pilates embarazadas
+
+😪
+
+terapias
+
+- tee v
+- Kinesiología v
+- Reiki V
+
+actividades
+
+- yoga
+- pilates
+- air pilates
+- prenatal
+- danza tribal fusión
+
+
+masajes
+
+- quiromasaje
+- osteopatía
+- sacrocraneal
+
+
+[dt_sc_tabs_vertical]
+[dt_sc_tab title="Yoga"]
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin at. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+[/dt_sc_tab]
+[dt_sc_tab title="Pilates"]
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin at. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+[/dt_sc_tab]
+
+
+[dt_sc_tab title="Prenatal"]
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin at. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+[/dt_sc_tab]
+
+[/dt_sc_tabs_vertical]
